@@ -31,7 +31,8 @@ export default {
     justify-content: space-between;
     padding: 2.5vh 0;
 
-    background-color: rgba(112,170,225,0.5) ;
+    background: rgba(198, 186, 231,.4) ;
+    
   }
 
   .lien{
