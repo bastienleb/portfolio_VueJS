@@ -9,7 +9,7 @@ export default {
 
 <template>
   <div class="footer">
-    <div>
+    <div class="all_info">
       <p>Bastien LEBLET</p>
       <p>bastienleblet@gmail.com</p>
     </div>
@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
   .footer{
-    background-color: rgba(112,170,225,0.5) ;
+    background: rgba(198, 186, 231,.4) ;
     padding: 1vh 0;
     display: flex;
     justify-content: space-between;
@@ -35,6 +35,10 @@ export default {
     align-items: center;
     width: 4.5%;
     margin-right: 2vh;
+  }
+
+  .all_info{
+    padding-left: 10px;
   }
 
 </style>

@@ -13,15 +13,16 @@
 }
 
 .component{
-    padding: 0 15vh;
-    /*background-color: purple;*/
-}
-
-.all_card{
-    display: flex;
-    justify-content: space-evenly;
+    padding: 0 5vh;
+    background-color: #fffffe;
+    margin-bottom: 10px;
 }
 
 .gros_titre{
     font-size: 5vh;
+    color: #0e172c;
+}
+
+.titre_langue{
+    color: #0e172c;
 }
