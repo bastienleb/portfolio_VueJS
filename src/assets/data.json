@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "langage": "C",
+    "information":[
+    {
+      "id": 0,
+      "titre": "SNAKE",
+      "description": "La première réalisation que j'ai effectuée durant mes études est le jeu Snake. Le jeu connu de tous. Malheureusement ce projet n'a pas été réalisé à 100%. La démonstration de ce projet n'est pas possible ni executable car il utilise une bibliothèque graphique liée à l'IUT.",
+      "photo1": "c/menu_snake.png",
+      "photo2": "c/jeu_snake.png",
+      "lien": "https://github.com/bastienleb/snake_c"
+    },
+    {
+      "id": 1,
+      "titre": "BLOCUS",
+      "description": "Le Samegame est un jeu ou le but est de grouper un certain nombre de formes identiques afin de faire le plus de point possible. Plus la taille du groupe est élevée, plus le score sera élevé.",
+      "photo1": "c/menu_blocus.png",
+      "photo2": "c/jeu_blocus.png",
+      "lien": "https://github.com/bastienleb/blocus_c"
+    }]
+  },
+  {
+    "id": 1,
+    "langage": "JAVA",
+    "information": [
+      {
+        "id": 0,
+        "titre": "SAMEGAME",
+        "description": "La première réalisation que j'ai effectuée durant mes études est le jeu Snake. Le jeu connu de tous. Malheureusement ce projet n'a pas été réalisé à 100%. La démonstration de ce projet n'est pas possible ni executable car il utilise une bibliothèque graphique liée à l'IUT.",
+        "photo1": "java/menu_samegame.png",
+        "photo2": "java/jeux_samegame.png",
+        "lien": "https://github.com/bastienleb/Samegame"
+      }]
+  },
+  {
+  "id": 2,
+  "langage": "PHP",
+  "information":[
+    {
+      "id": 0,
+      "titre": "SUPER QUIZZ",
+      "description": "Le Super Quiz est un quiz réalisé à l'aide du framework CodeIgniter. Sur ce site, il est possible de créer une salle qui comporte plusieurs quiz sur différents thèmes. Chaque salle permet de pouvoir jouer en multijoueur.\nLe site n'est actuellement plus disponible.",
+      "photo1": "web/quizz_1.png",
+      "photo2": "web/quizz_3.png",
+      "lien": "https://github.com/bastienleb/Super-quizz",
+      "lien2": "https://github.com/bastienleb/Super-quizz"
+    },
+    {
+      "id": 1,
+      "titre": "DOODLE",
+      "description": "Le Doodle, le but ici était de faire un site similaire à l'application doodle. Il fallait donc à l'aide du framework CodeIgniter faire un calendrier où les différentes personnes qui possèdent l'accès puissent savoir quand et à quelle heure un rendez-vous était disponible. La personne qui a créé l'événement peut clôturer ou bien même fermer celui-ci.",
+      "photo1": "web/connect_doodle.png",
+      "photo2": "web/menu_doodle.png",
+      "lien": "https://github.com/bastienleb/Doodle",
+      "lien2": "https://github.com/bastienleb/Doodle"
+    },
+    {
+      "id": 2,
+      "titre": "CINEMA",
+      "description": "Le cinéma est un projet dans le but de l'apprentissage du Framework Riot JS. Le but est de récupérer les données d'une API du site web : themoviedb. Une maquette a été donnée afin de suivre un visuel.",
+      "photo1": "web/Menu_cinema.png",
+      "photo2": "web/Detail_cinema.png",
+      "lien": "https://github.com/bastienleb/Cinema-list",
+      "lien2": "https://github.com/bastienleb/Cinema-list"
+    }]
+}
+]
